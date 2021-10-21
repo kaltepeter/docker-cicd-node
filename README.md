@@ -15,6 +15,7 @@ Docker container for CI/CD builds that has:
 This image was originally based off https://github.com/justinribeiro/dockerfiles/tree/master/chrome-headless of and is now heavily based off of https://github.com/cypress-io/cypress-docker-images.
 
 ## Chrome headless
+
 Example build command
 
 ```docker
